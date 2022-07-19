@@ -89,9 +89,7 @@ main {
 }
 
 /* Formats the three sections in the "Main" tag */
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,12 +99,12 @@ main {
 }
 
 /* Formats the three images in the "Main" tag */
-main img {
+main section img {
     max-height: 200px;
 }
 
 /* Formats the three h2's in the "Main" tag */
-main h2 {
+main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
